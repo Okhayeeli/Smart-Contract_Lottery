@@ -19,6 +19,6 @@
 
  1. Write some deploy scripts 
  2. Write our tests that will;  
-    1. Work ona local chain,
+    1. Work on a local chain,
     2. Forked Testnet
     3. Forked Mainnet.
